@@ -82,17 +82,11 @@ This project presents an interactive Excel dashboard analyzing **Mudra loan disb
 👤 **Author**  
 **Name**: Gurveer Singh  
 **Registration No**: 12310286 
-
 **Section**: K23SH  
 
 
 ---
 
 📎 **License & Usage**  
-This academic project complies with INT217 coursework integrity norms. Data is derived from publicly accessible government repositories and used solely for analysis and educational visualization.
+This academic project complies with INT217 coursework integrity norms. The dataset used was provided by the author’s brother and has been used solely for analysis and educational visualization purposes as part of the course. All analysis is original and developed for academic demonstration only.
 
-For portfolio or demo purposes, this dashboard serves as a benchmark for analyzing public microfinance schemes like PMMY and can be extended to other financial inclusion projects.
-
----
-
-Would you like this summary exported to a Word or PDF file, or embedded into your Excel dashboard sheet?
