@@ -1,0 +1,21 @@
+🎯 **Key Objectives**
+
+**1. Yearly Loan Disbursement and Sanction Analysis**  
+- Monitor trends in loan amounts sanctioned and disbursed annually.  
+- Identify growth patterns and year-over-year changes in credit distribution.
+
+**2. Category-Wise and Gender-Wise Loan Distribution**  
+- Compare loan distribution across SHISHU, KISHORE, and TARUN categories.  
+- Evaluate gender-wise participation in the Mudra loan scheme to assess inclusivity.
+
+**3. State-Level Loan Disbursement Analysis**  
+- Analyze state-wise loan disbursement and sanction patterns.  
+- Identify top-performing and underperforming states based on loan amounts and number of accounts.
+
+**4. Sector-Wise Loan Distribution Trends**  
+- Assess loan allocations across key economic sectors such as Trade, Services, and Manufacturing.  
+- Understand sectoral demand and policy alignment with entrepreneurial activity.
+
+**5. Forecasting and Trend Projection**  
+- Utilize historical data to project future trends in loan disbursements.  
+- Support evidence-based planning by highlighting anticipated funding growth areas.
