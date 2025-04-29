@@ -80,9 +80,8 @@ This project presents an interactive Excel dashboard analyzing **Mudra loan disb
 ---
 
 👤 **Author**  
-**Name**: Gurveer Singh  
-**Registration No**: 12310286 
-
+**Name**: Gurveer Singh
+**Registration No**: 12310286
 **Section**: K23SH  
 
 
